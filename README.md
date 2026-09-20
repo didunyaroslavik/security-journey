@@ -33,7 +33,7 @@ Learning network fundamentals by analysing and studying real network traffic fro
 
 ### 1\. ICMP Request / Reply
 
-!\[ICMP request and reply](ICMP.png)
+![ICMP request and reply](ICMP.png)
 
 Testing connectivity between the VMs using `ping -c 4 10.0.2.3`:
 
@@ -43,7 +43,7 @@ Testing connectivity between the VMs using `ping -c 4 10.0.2.3`:
 
 ### 2\. TCP Handshake \& HTTP Traffic
 
-!\[TCP Handshake and HTTP](TCP.png)
+![TCP Handshake and HTTP](TCP.png)
 
 Connecting to `example.com` (`172.66.147.243`) on port 80:
 
@@ -57,7 +57,7 @@ Connecting to `example.com` (`172.66.147.243`) on port 80:
 
 ### 3\. DNS Query / Response
 
-!\[DNS query and response](DNS.png)
+![DNS query and response](DNS.png)
 
 Resolving the domain name `example.com`:
 
